@@ -6,6 +6,3 @@
 ## 👨‍🏫 Instrutor
 
 **Andre Iacono** | 325.000+ Estudantes | AI · Cloud · Developer  
-*Educating with Passion, Transforming with Purpose.*
-
----
