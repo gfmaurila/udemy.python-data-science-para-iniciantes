@@ -1,0 +1,24 @@
+
+
+1. Primeiro, certifique-se de que o Anaconda está instalado
+which anaconda-navigator
+
+
+2. Execute o Anaconda Navigator
+
+anaconda-navigator
+
+
+3. Rodar o JupyterLab para testar
+
+jupyter lab
+
+
+4. Validando ambiente
+
+pip install pandas
+
+pip install numpy
+
+pip install matplotlib
+
